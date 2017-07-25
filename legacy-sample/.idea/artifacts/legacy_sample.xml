@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="legacy-sample">
+    <output-path>$PROJECT_DIR$/out/artifacts/legacy_sample</output-path>
+    <root id="archive" name="legacy-sample.war" />
+  </artifact>
+</component>
